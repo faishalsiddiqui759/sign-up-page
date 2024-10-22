@@ -44,8 +44,12 @@ body{
     border: 3px solid rgb(218, 88, 41);
     border-radius: 3% 0% 0% 3%;
 }
-#search button{
-    height: 45px;
-    width: 90px;
-    background-color: rgb(218, 88, 41);
-}
+ .signup{
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 30%;
+    width: 20%;
+    padding-top: 2%;
+ }
